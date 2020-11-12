@@ -16,12 +16,12 @@ public class Main {
         System.out.println("Staff fullname: " + a4.getFullName() + " on a position of " + a4.getPosition() + ".");
         /*
         // Какой тип данных тут определить вообще не знаю, наверно это как-то связанно с классами, но как изобразить без понятия.
-        String[] arrA = new String[5];
-        String[0] = a0;
-        String[1] = a1;
-        String[2] = a2;
-        String[3] = a3;
-        String[4] = a4;
-        for (int i = 0; i <= arrA.length; i++) if (String[i].age > 45) System.out.println(String[i].age); */
+        Staff[] arrA = new Staff[5];
+        Staff[0] = a0;
+        Staff[1] = a1;
+        Staff[2] = a2;
+        Staff[3] = a3;
+        Staff[4] = a4;
+        for (int i = 0; i <= arrA.length; i++) if (Staff[i].age > 45) System.out.println(Staff[i].age); */
     }
 }
